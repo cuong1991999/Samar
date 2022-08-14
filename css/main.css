@@ -1096,8 +1096,8 @@ body {
         gap: 20px;
     }
     #prot__item {
-        grid-column: auto;
-        grid-row: auto;
+        grid-column: none;
+        grid-row: none;
         
     }
     #prot__item img {
