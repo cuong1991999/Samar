@@ -1098,6 +1098,7 @@ body {
     #prot__item {
         grid-column: auto;
         grid-row: auto;
+        
     }
     #prot__item img {
         width: 100vw;
