@@ -60,7 +60,7 @@ body {
 /* Carousel */
 .carousel {
     padding-top: 180px;
-    background-image: url(./img/pic2.png);
+    background-image: url(/img/pic2.png);
     background-size: 100%;
     background-position: top;
     background-repeat: no-repeat;
@@ -120,7 +120,7 @@ body {
 /* Service */
 .service {
     padding-top: 115px;
-    background-image: url(./img/bg2.png);
+    background-image: url(/img/bg2.png);
     background-size: cover;
     background-position: top center;
     text-align: center
@@ -159,7 +159,7 @@ body {
 /* About */
 .aboutUs {
     padding: 115px 0 85px;
-    background-image: url(./img/bg15.png);
+    background-image: url(/img/bg15.png);
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: center right;
@@ -208,7 +208,7 @@ body {
 /* Number */
 .number {
     padding: 80px 0 50px;
-    background-image: url(./img/bg14.png);
+    background-image: url(/img/bg14.png);
     background-position: center;
     background-repeat: no-repeat;
     text-align: center;
@@ -251,7 +251,7 @@ body {
 /* feature */
 .feature {
     padding-top: 115px;
-    background-image: url(./img/bg2.png);
+    background-image: url(/img/bg2.png);
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: center;
@@ -354,7 +354,7 @@ body {
 
 /* Portfolio */
 .portfolio {
-    background-image: url(./img/bg17.png);
+    background-image: url(/img/bg17.png);
     background-size: cover;
     background-position: top center;
     text-align: center;
@@ -482,7 +482,7 @@ body {
 /* Plan */
 .plan {
     padding-top: 115px;
-    background-image: url(./img/bg16.png);
+    background-image: url(/img/bg16.png);
     background-size: cover;
     background-position: center;
     text-align: center;
@@ -554,13 +554,13 @@ body {
 }
 
 .plan__item:hover {
-    border-image: url(./img/br.png) 1 round;
+    border-image: url(/img/br.png) 1 round;
 }
 
 /* Testimonial */
 .testimonial {
     padding-top: 115px;
-    background-image: url(./img/bg17.png);
+    background-image: url(/img/bg17.png);
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -650,7 +650,7 @@ body {
     position: absolute;
     left: 0;
     bottom: 0;
-    background-image: url(./img/pattern12.png);
+    background-image: url(/img/pattern12.png);
     background-position: bottom;
     background-size: contain;
     height: 100%;
@@ -740,7 +740,7 @@ body {
 
 /* blog */
 .blog {
-    background-image: url(./img/bg16.png);
+    background-image: url(/img/bg16.png);
     background-size: cover;
     background-position: top center;
     text-align: center;
@@ -815,7 +815,7 @@ body {
 
 /* footer */
 .footer {
-    background-image: url(./img/bg4.png);
+    background-image: url(/img/bg4.png);
     display: block;
     height: auto;
     background-repeat: no-repeat;
@@ -829,7 +829,7 @@ body {
 
 .footer::before {
     content: "";
-    background-image: url(./img/pattern2.png);
+    background-image: url(/img/pattern2.png);
     background-position: left top;
     background-repeat: no-repeat;
     background-size: contain;
@@ -845,7 +845,7 @@ body {
     background-color: #fff;
     border-radius: 10px;
     box-shadow: 0 0 30px 0 rgb(0 0 0 / 10%);
-    background-image: url(./img/pattern3.png);
+    background-image: url(/img/pattern3.png);
     background-position: bottom;
     background-repeat: no-repeat;
     background-size: 100%;
